@@ -15,8 +15,8 @@ See below for a list of the documents contained and associated descriptions. Not
 ### Data Dictionaries and Codebooks for Reference:
 - 'Data Dictionary - JUSTFAIR': The data dictionary provided by the research group that collated the dataset used for this project, link with details: https://qsideinstitute.org/research/criminal-justice/justfair/
 - 'Data Dictionary - Custom': 
-    - Sheet 2 contains definitions of the variables used in the project
     - Sheet 1 is an edited copy of 'Data Dictionary - JUSTFAIR'
+    - Sheet 2 contains definitions of the variables used in the project
 - 'FJCID - Criminal Code Book 1996 Forward': Code book from the Federal Judicial Center Criminal Integrated Database (one of the sources used to create the justfair dataset)
 - 'USSCD - Variable_Codebook_for_Individual_Offenders': Code book from the UNITED STATES SENTENCING COMMISSION (one of the sources used to create the justfair dataset)
 
